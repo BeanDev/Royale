@@ -1,0 +1,110 @@
+ping:
+  fakeMaxSlots: 1
+  serverMOTD: "&cRoyale is Enabled!\n&8Made by:&7 BeanMC"
+playerlist:
+  header: "&cRoyale Enabled\n&8Goto the config.yml to edit"
+  footer: "&8Made by:&7 BeanMC\n&8Goto the config.yml to edit"
+  animated:
+    header:
+      - "&c&lROYALE PVP&8 \u00bb &7{ONLINE}"
+      - "&c&lROYALE PVP&8 \u00bb &7{ONLINE}"
+      - "&c&lROYALE PVP&8 \u00bb &7{ONLINE}"
+      - "&c&lROYALE PVP&8 \u00bb &7{ONLINE}"
+      - "&c&lROYALE PVP&8 \u00bb &7{ONLINE}"
+      - "&c&lROYALE PVP&8 \u00bb &7{ONLINE}"
+      - "&c&lROYALE PVP&8 \u00bb &7{ONLINE}"
+      - "&c&lROYALE PVP&8 \u00bb &7{ONLINE}"
+      - "&c&lROYALE PVP&8 \u00bb &7{ONLINE}"
+      - "&c&lROYALE PVP&8 \u00bb &7{ONLINE}"
+      - "&f&lROYALE PVP&8 \u00bb &7{ONLINE}"
+      - "&c&lROYALE PVP&8 \u00bb &7{ONLINE}"
+      - "&f&lROYALE PVP&8 \u00bb &7{ONLINE}"
+      - "&c&lROYALE PVP&8 \u00bb &7{ONLINE}"
+      - "&f&lROYALE PVP&8 \u00bb &7{ONLINE}"
+    footer:
+      - "&7Scrolling"
+      - "&7crolling "
+      - "&7rolling T"
+      - "&7olling Te"
+      - "&7lling Tex"
+      - "&7ling Text"
+      - "&7ing Text "
+      - "&7ng Text S"
+      - "&7g Text Sc"
+      - "&7 Text Scr"
+      - "&7Text Scro"
+      - "&7ext Scrol"
+      - "&7xt Scroll"
+      - "&7t Scrolli"
+      - "&7 Scrollin"
+scoreboard:
+  sidebar:
+    displayName: "&c&lROYALE"
+    display:
+      - "&7This is a"
+      - "&7test."
+      - "&8Made by:"
+      - "&fBeanMC"
+    animated:
+      displayName:
+        - "&c&lROYALE PVP"
+        - "&c&lROYALE PVP"
+        - "&c&lROYALE PVP"
+        - "&c&lROYALE PVP"
+        - "&c&lROYALE PVP"
+        - "&c&lROYALE PVP"
+        - "&c&lROYALE PVP"
+        - "&c&lROYALE PVP"
+        - "&c&lROYALE PVP"
+        - "&c&lROYALE PVP"
+        - "&f&lROYALE PVP"
+        - "&c&lROYALE PVP"
+        - "&f&lROYALE PVP"
+        - "&c&lROYALE PVP"
+        - "&f&lROYALE PVP"
+      display:
+        0:
+          - "&7Scrolling"
+          - "&8\u00bb &7{ONLINE} Online"
+        1:
+          - "&7crolling "
+          - "&8\u00bb &7{ONLINE} Online"
+        2:
+          - "&7rolling T"
+          - "&8\u00bb &7{ONLINE} Online"
+        3:
+          - "&7olling Te"
+          - "&8\u00bb &7{ONLINE} Online"
+        4:
+          - "&7lling Tex"
+          - "&8\u00bb &7{ONLINE} Online"
+        5:
+          - "&7ling Text"
+          - "&8\u00bb &7{ONLINE} Online"
+        6:
+          - "&7ing Text "
+          - "&8\u00bb &7{ONLINE} Online"
+        7:
+          - "&7ng Text S"
+          - "&8\u00bb &7{ONLINE} Online"
+        8:
+          - "&7g Text Sc"
+          - "&8\u00bb &7{ONLINE} Online"
+        9:
+          - "&7 Text Scr"
+          - "&8\u00bb &7{ONLINE} Online"
+        10:
+          - "&7Text Scro"
+          - "&8\u00bb &7{ONLINE} Online"
+        11:
+          - "&7ext Scrol"
+          - "&8\u00bb &7{ONLINE} Online"
+        12:
+          - "&7xt Scroll"
+          - "&8\u00bb &7{ONLINE} Online"
+        13:
+          - "&7t Scrolli"
+          - "&8\u00bb &7{ONLINE} Online"
+        14:
+          - "&7 Scrollin"
+          - "&8\u00bb &7{ONLINE} Online"
